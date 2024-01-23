@@ -2,10 +2,10 @@
 name = "douyinpy"
 version = "2.0.0.alpha26"
 description = "Douyin SDK for Python"
-authors = ["messense <messense@icloud.com>"]
+authors = ["Ferren Liu <ferrenliu@gmail.com>"]
 license = "MIT"
 readme = 'README.md'
-keywords = ["douyin", "weixin", "douyin SDK"]
+keywords = ["douyin", "tiktok", "douyin SDK"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
     "License :: OSI Approved :: MIT License",
