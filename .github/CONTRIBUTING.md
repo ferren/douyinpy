@@ -80,7 +80,7 @@ douyinpy 希望支持的 Python 版本有 3.5及以上。
 
 > Tips: 如果您的修改不是针对代码的，不需要进行自动化测试，可以在 Git commit message 结尾加上 `[ci skip]`.
 
-在所有环节完成之后，wechatpy 项目成员会尽快 review 您的 Pull Requests，予以合并或和您进行进一步的讨论。
+在所有环节完成之后，douyinpy 项目成员会尽快 review 您的 Pull Requests，予以合并或和您进行进一步的讨论。
 
 Thanks.
 
